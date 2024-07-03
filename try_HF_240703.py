@@ -13,3 +13,5 @@ nlp = pipeline("sentiment-analysis", model=model_name)
 
 # 今天的修改
 a = 1
+
+b = 2
