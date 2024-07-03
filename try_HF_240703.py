@@ -15,5 +15,4 @@ nlp = pipeline("sentiment-analysis", model=model_name)
 a = 1
 b = 2
 
-# 尝试检测合并冲突
 branch = "main"
