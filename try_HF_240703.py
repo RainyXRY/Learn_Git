@@ -10,3 +10,6 @@ from transformers import pipeline
 # 指定模型版本  
 model_name = "bert-base-uncased@huggingface/bert-base-uncased-v2"  
 nlp = pipeline("sentiment-analysis", model=model_name)
+
+# 今天的修改
+a = 1
